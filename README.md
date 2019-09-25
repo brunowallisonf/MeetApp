@@ -28,3 +28,4 @@
 
 git clone && yarn dev
 
+yarn queue
